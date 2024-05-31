@@ -86,7 +86,8 @@ p {
     .gitt {
     flex: 100%;
 }
-    .git {    
+    .git {  
+    width: 100%;
     height: 70px;
     flex: 50%;
     text-align: center;
