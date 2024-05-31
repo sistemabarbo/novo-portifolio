@@ -89,12 +89,14 @@ p {
     .git {  
     width: 100%;
     height: 70px;
-    flex: 50%;
+    flex: 100%;
     text-align: center;
 }
-    .imgit{
+.imgit{
     width: 100%;
- }
+    margin: auto;
+    display: flex;
+}
 }
 .git {
     width: 60px;
