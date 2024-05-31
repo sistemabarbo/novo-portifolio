@@ -24,7 +24,7 @@ h3 {
     margin: auto;
     border: 1px solid black;
     display: flex;
-    height: 50px;
+    height: 80px;
 }
 .one {
     flex: 50%;
