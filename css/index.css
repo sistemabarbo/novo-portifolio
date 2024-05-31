@@ -83,13 +83,20 @@ a {
 p {
     font-size: 18px;
 }
+    .gitt {
+    flex: 100%;
+}
+    .git {    
+    height: 70px;
+    flex: 50%;
+    text-align: center;
+}
 }
 .git {
     width: 60px;
     height: 70px;
     flex: 50%;
     text-align: center;
-
 }
 .imgit{
     width: 60%;
