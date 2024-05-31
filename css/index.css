@@ -99,16 +99,20 @@ p {
 }
 }
 .git {
-    width: 60px;
+    width: 100px;
     height: 70px;
-    flex: 50%;
-    text-align: center;
+    /*flex: 50%;*/
+    /*text-align: center;*/
+    border: 5px solid rgb(9, 230, 65);
 }
 .imgit{
-    width: 60%;
+    width: 100%;
     margin: auto;
     display: flex;
+    border: 6px solid greenyellow;
 }
 .gitt {
     flex: 50%;
+    border: 1px solid red;
+    width: 100%;
 }
